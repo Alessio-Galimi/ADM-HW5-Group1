@@ -86,6 +86,6 @@ Write a function that sorts the categories in the graph according to their PageR
 
 # The structure of the git is:
 
-main.ipynb: contains the solutions of 6 questions of homework 5
+<b>main.ipynb: </b> contains the solutions of 6 questions of homework 5
 
-data: contain dataset of this homework
+<b>data:</b> contain dataset of this homework
